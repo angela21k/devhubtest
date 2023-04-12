@@ -14,8 +14,8 @@ jobs:
       #You can specify the solution name here
       solution_name: ALMLab
       #Update your values here
-      BUILD_ENVIRONMENT_URL: 'https://akim-build.crm.dynamics.com'
-      PRODUCTION_ENVIRONMENT_URL: 'https://akim-dev.crm.dynamics.com'
+      BUILD_ENVIRONMENT_URL: 'https://akim-test.crm.dynamics.com/'
+      PRODUCTION_ENVIRONMENT_URL: 'https://akim-prod.crm.dynamics.com/'
       CLIENT_ID: 'f1c46471-c7c5-4464-bfd7-8bbd9428920a'
       TENANT_ID: '72f988bf-86f1-41af-91ab-2d7cd011db47'      
     secrets:
