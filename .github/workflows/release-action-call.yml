@@ -16,7 +16,7 @@ jobs:
       #Update your values here
       BUILD_ENVIRONMENT_URL: 'https://akim-test.crm.dynamics.com/'
       PRODUCTION_ENVIRONMENT_URL: 'https://akim-prod.crm.dynamics.com/'
-      CLIENT_ID: 'f1c46471-c7c5-4464-bfd7-8bbd9428920a'
+      CLIENT_ID: '50c0105f-77d8-4d8a-8828-7a293fa11dc7'
       TENANT_ID: '72f988bf-86f1-41af-91ab-2d7cd011db47'      
     secrets:
       envSecret: ${{ secrets.PowerPlatformSPN }}
